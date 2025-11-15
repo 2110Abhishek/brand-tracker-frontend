@@ -224,7 +224,7 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👥 Authors
-Your Name - 
+Your Name - https://github.com/2110Abhishek
 
 🙏 Acknowledgments
 Natural.js for sentiment analysis
