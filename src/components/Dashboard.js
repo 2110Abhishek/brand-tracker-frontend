@@ -35,7 +35,7 @@ const Dashboard = ({ brand, mentions }) => {
   const [spikeAlert, setSpikeAlert] = useState(null);
   const [loading, setLoading] = useState(false);
   const [activeMetric, setActiveMetric] = useState('all');
-
+z
   // Fixed useEffect with useCallback
   const fetchAnalytics = useCallback(async () => {
     if (!brand) return;
