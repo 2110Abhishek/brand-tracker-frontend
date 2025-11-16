@@ -245,5 +245,4 @@ This project was developed for the RapidQuest Brand Mention Tracker Hackathon Ch
 ✅ Professional UI/UX with responsive design
 ✅ Full-stack implementation with modern technologies
 
-Demo Video: [Link to your demo video]
-Live Demo: [Link to deployed application]
+Demo Video: https://drive.google.com/file/d/1fvammoqWp8-Ug-WFlYmnb_NjmpoCJFVJ/view?usp=sharing
